@@ -7,7 +7,7 @@ let package = Package(
     name: "DJWBuilderNS",
     
     platforms: [
-        .iOS(.v13),
+        .iOS(.v13), 
         .macOS(.v10_12),
         .tvOS(.v10)
     ],
